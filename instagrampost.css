@@ -1,0 +1,27 @@
+body{ width: 1080px; height: 1080px;background-color:  #4D5646;}
+*{box-sizing: border-box;}
+#container {position: absolute;
+width: 691px;
+height: 825px;
+margin-left: 400px;
+margin-right: 193px;
+margin-top: 127px;
+border-radius: 15px;
+background: url(Rectangle\ 1.png);background-size: 691px;
+}
+#elipse{position: absolute; width: 305px; height: 305px; border-radius: 150px; margin-left: 193px;margin-right: 193px; margin-top: 132px; background-color: #F1EAEA; background-image: url(Ellipse\ 1.png); background-repeat: no-repeat; background-position: center;}
+#box1{position: absolute;
+    width: 655px;
+    height: 548px;
+    margin-left:  16px;
+    margin-top:  278px;
+    margin-right: 192px;
+    background-color:  #FFFFFF;
+    border-radius: 15px;}
+
+#box2{display: flex;}
+#textbox {margin-top: 100px;}
+span{ position: absolute; margin-left: 190px; margin-right: 174px; margin-top: 340px; font-size: 48px; color: black;}
+
+#s1{ position: absolute; margin-left: 242px; margin-right: 226px; font-size: 36px; margin-top: 400px; color: black}
+#s3{position: absolute;  text-align: center;  font-size: 24px; color: black;}
